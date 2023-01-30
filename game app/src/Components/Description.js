@@ -17,7 +17,8 @@ const Description = ({heightpok,weightpok,pokstat1,pokstat2,pokstat3,pokstat4,po
        //ffddfggggggggggggggggfgfdgdfg
 
        //fffffffffssss
-           
+        
+      //hello
         </div>
     )
 }
