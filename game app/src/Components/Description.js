@@ -15,6 +15,8 @@ const Description = ({heightpok,weightpok,pokstat1,pokstat2,pokstat3,pokstat4,po
             <p><b>{pokstat6} : {posbs6}</b></p>
             
        //ffddfggggggggggggggggfgfdgdfg
+
+       //fffffffffssss
            
         </div>
     )
